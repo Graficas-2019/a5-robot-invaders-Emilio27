@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial;
+    font-size:20px;
+    font-style: italic;
+}
+
+body {
+	color:rgb(10, 0, 0);
+}
+
+#container {
+	position:absolute;
+	
+	color: #ffffff !important;
+}
+
+#webglcanvas {
+	border:none;
+	background-color:#ffffff;
+}
+
+#time {
+	position:absolute;
+	left:20px;
+	top:50px;
+	margin-left: 90%;
+}
+
+#score {
+	position:absolute;
+	left:20px;
+	top:80px;
+	margin-left: 90%;
+}
+
+
+#startButton {
+	position:absolute;
+	margin-top: -4% !important	;
+	left:20px;
+	top:140px;
+}
+
+
